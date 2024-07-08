@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-08T09:33:53 IST" name="Default suite" finished-at="2024-07-08T09:33:59 IST" duration-ms="6122">
+    <groups>
+    </groups>
+    <test started-at="2024-07-08T09:33:53 IST" name="Default test" finished-at="2024-07-08T09:33:59 IST" duration-ms="6122">
+      <class name="com.testcases.MyFirstTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcases.MyFirstTest@3bf9ce3e]" started-at="2024-07-08T09:33:53 IST" name="setup" finished-at="2024-07-08T09:33:54 IST" duration-ms="1033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="myFirstTest()[pri:0, instance:com.testcases.MyFirstTest@3bf9ce3e]" started-at="2024-07-08T09:33:54 IST" name="myFirstTest" finished-at="2024-07-08T09:33:58 IST" duration-ms="4265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method signature="myFirstTestWithEndPoints()[pri:0, instance:com.testcases.MyFirstTest@3bf9ce3e]" started-at="2024-07-08T09:33:58 IST" name="myFirstTestWithEndPoints" finished-at="2024-07-08T09:33:59 IST" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTestWithEndPoints -->
+      </class> <!-- com.testcases.MyFirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
